@@ -1,7 +1,8 @@
 # Custom Presence
-<img src="https://img.shields.io/github/languages/count/ngn13/custom-presence?style=flat-square">
-<img src="https://img.shields.io/github/directory-file-count/ngn13/custom-presence?style=flat-square">
-<img src="https://img.shields.io/github/languages/code-size/ngn13/custom-presence?style=flat-square">
+![](https://img.shields.io/github/languages/count/ngn13/custom-presence)
+![](https://img.shields.io/github/directory-file-count/ngn13/custom-presence)
+![](https://img.shields.io/github/languages/code-size/ngn13/custom-presence)
+
 *Simple python script for custom discord presence*
 
 ## Installation
