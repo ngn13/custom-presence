@@ -1,4 +1,5 @@
 mkdir build
+pip -r requirements.txt
 echo "Copying 'src/config.py' to 'build/config.pyw'"
 copy src/config.py build/config.pyw
 echo "Copying 'src/presence.py' to 'build/presence.pyw'"
