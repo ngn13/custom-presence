@@ -10,6 +10,7 @@
 
 ### Linux
 - Clone the repo
+- Install requirements: `pip -r requirements.txt`
 - Run `install.sh`
 - Files will copied into `/usr/bin`, which is probably
 in your `PATH`, so you can launch them from the terminal
