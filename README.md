@@ -1,3 +1,4 @@
+<br>
 <div align="center">
   <h1>🎨 Discord Custom Presence Script</h1>
   <img src="https://img.shields.io/github/languages/count/ngn13/custom-presence">
