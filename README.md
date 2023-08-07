@@ -30,7 +30,7 @@ pip -r requirements.txt
 - Run the install script
 ```bash
 chmod +x install.sh
-./install.sh
+sudo ./install.sh
 ```
 - Files will be copied into `/usr/bin`, which is probably
 in your `PATH`, so you can launch the scripts from the terminal
